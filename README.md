@@ -1,7 +1,7 @@
 # landingMedicastock
 ## Curso de: IHC
 ### Github Page
-
+Grupo 4
 ###Frameworks Utilizados
 - MDBootstrap significa diseño de material para bootstrap. O en 
 pocas palabras, una versión de bootstrap inspirada en Material 
