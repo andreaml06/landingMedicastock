@@ -1,8 +1,8 @@
 # landingMedicastock
 ## Curso de: IHC
 ### Github Page
-Grupo 4
-###Frameworks Utilizados
+- Grupo 4
+### Frameworks Utilizados
 - MDBootstrap significa diseño de material para bootstrap. O en 
 pocas palabras, una versión de bootstrap inspirada en Material 
 Designs.  MDBootstrap tiene cientos de hermosos componentes, 
@@ -13,10 +13,10 @@ desarrollo web front-end responsivo y móvil. Contiene plantillas de
 diseño basadas en CSS y JavaScript para tipografía, formularios, botones, 
 navegación y otros componentes de la interfaz.
 
-###Librerias utilizadas
+### Librerias utilizadas
 - MdBootstrap: css, scss, js
 - AOS: Animated On Scroll
 
-###Ver Landing Page Medicastock
+### Ver Landing Page Medicastock
 - [Ver Landing Page](https://andreaml06.github.io/landingMedicastock/)
 
